@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I’m Dalal👋 </h1>h1>
+- <h1 align="center">  Hi, I’m Dalal👋 </h1>h1>
 
 - 👩🏻‍💻 I’m interested in everything related to technology
 - 🌱 I’m currently learning flutter
